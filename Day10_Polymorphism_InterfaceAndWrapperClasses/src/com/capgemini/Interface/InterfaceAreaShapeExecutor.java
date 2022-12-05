@@ -1,6 +1,6 @@
-package org.tnsindia.interfacedemo;
-
-public class InterfacefaceAreaShapeExecutor {
+package com.capgemini.Interface;
+//driver class
+public class InterfaceAreaShapeExecutor {
 
 	public static void main(String[] args) {
 		//object creation
@@ -13,4 +13,3 @@ public class InterfacefaceAreaShapeExecutor {
 	}
 
 }
-

@@ -1,5 +1,5 @@
-package org.tnsindia.interfacedemo;
-
+package com.capgemini.Interface;
+//interface
 public interface Area {
 	
 	//by default it is abstract

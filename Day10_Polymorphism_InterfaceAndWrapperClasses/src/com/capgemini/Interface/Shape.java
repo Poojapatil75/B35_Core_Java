@@ -1,9 +1,9 @@
-package org.tnsindia.interfacedemo;
-
+package com.capgemini.Interface;
 import java.util.Scanner;
 
-public class Shape implements Area {
-	
+//Implementable class for the Interface
+public class Shape implements Area{
+
 	@Override
 	//void rectangle() ----error 
 	public void rectangle() {
@@ -29,5 +29,3 @@ public class Shape implements Area {
 	}
 
 }
-
-
