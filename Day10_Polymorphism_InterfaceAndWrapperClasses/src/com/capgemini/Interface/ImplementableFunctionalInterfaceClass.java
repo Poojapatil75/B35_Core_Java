@@ -1,5 +1,10 @@
 package com.capgemini.Interface;
+public class ImplementableFunctionalInterfaceClass implements FunctionalInterfaceDemo{
 
-public class ImplementableFunctionalInterfaceClass {
+	@Override
+	public void print(String msg) {
+		System.out.println(msg);
+		
+	}
 
 }
